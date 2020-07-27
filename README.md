@@ -22,6 +22,48 @@ npm install --save axios
 
 <br />
 
+Install propType
+
+```
+npm install --save prop-types
+```
+
+(propType is for checking the correctness of prop types)
+
+<br />
+
+Install React Router DOM
+
+```
+npm install --save react-router-dom
+```
+
+<br />
+
+Install Redux
+
+```
+npm install --save redux react-redux
+```
+
+<br />
+
+Install Thunk
+
+```
+npm install --save redux redux-thunk
+```
+
+<br />
+
+Install Enzyme (for testing purpose)
+
+```
+npm install —save enzyme react-test-renderer enzyme-adapter-react-16
+```
+
+<br />
+
 ### Running
 
 ```
