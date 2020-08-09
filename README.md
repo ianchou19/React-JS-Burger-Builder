@@ -71,3 +71,5 @@ npm start
 ```
 
 The service is running on http://localhost:3000.
+
+You also can access the online demo site for this project on https://react-my-burger-467b7.web.app/
